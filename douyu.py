@@ -52,8 +52,6 @@ class Douyu(object):
         for data in data_list:
             print(data)
 
-
-
 if __name__ == '__main__':
     douyu = Douyu()
     douyu.run()
